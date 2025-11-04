@@ -37,7 +37,7 @@
 
 ## 📂 Projetos em destaque
 
-🔹 **[API de Gestão de Usuários](LINK)** — API RESTful completa com autenticação JWT, CRUD de usuários, testes unitários e deploy com Docker.  
+🔹 **[API de Gestão de Usuários]([https://github.com/celsoaquino/user-management-api])** — API RESTful completa com autenticação JWT, CRUD de usuários, testes unitários e deploy com Docker.  
 🔹 **[API de Produtos](LINK)** — Microserviço Spring Boot para cadastro e consulta de produtos, integrado com PostgreSQL.  
 🔹 **[Serviço de Integração Externa](LINK)** — Projeto de integração com APIs externas usando RestTemplate e WebClient.
 
